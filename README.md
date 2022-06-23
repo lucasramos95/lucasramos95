@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML|CSS|JavaScript.</strong>
+  🦄 Linguagens: <strong>HTML| CSS | JavaScript.</strong>
 </p>
 
 <p align="left">
@@ -13,12 +13,12 @@
 </p>
 
 <p align="left">
-  💌 Minhas Redes: ⤵️
+  💌 Me siga e me contate nas Minhas Redes: ⤵️
 </p>
 
 <p align="left">
   <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=lucas.guyfawkes95@gmail.com
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=lucas.guyfawkes95@gmail.com/
 " /></a>
 
   <a href="#" alt="Linkedin">
