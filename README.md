@@ -1,33 +1,26 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<h3> Sobre mim </h3>
 
-<p align="left"> 
-  Olá, Meu nome é Lucas, tenho 27 anos, apaixonado por tecnologia, estudante de <strong>Front-End</strong>.<br>
-</p>
+- 🎓 &nbsp; Estudante **Front-End**.
+- 🌱 &nbsp; Aprendendo mais sobre **JavaScript, Git e GitHub**.
 
-<p align="left">
-  🦄 Linguagens: <strong>HTML| CSS | JavaScript.</strong>
-</p>
+<h3> :rocket: &nbsp;Minhas Skills </h3>
 
-<p align="left">
-  💼 Ferramentas: <strong>Visual Studio Code & Sublime Text.</strong>
-</p>
+**Aplicações e Dados**
 
-<p align="left">
-  💌 Me siga e me contate nas Minhas Redes: ⤵️
-</p>
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=lucas.guyfawkes95@gmail.com" /></a>
+**Ferramentas de Desenvolvimento**
 
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/lucas-ramos-a8ba4a207/" /></a>
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  
 
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=5551996464872"/></a>
+<br/>
 
-  <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=web.facebook.com/lucas.ramos.716970"/></a>
+<br/>
 
-</a>
-</p>  
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: Lucas Ramos](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-ramos-a8ba4a207/)](https://www.linkedin.com/in/lucas-ramos-a8ba4a207/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.guyfawkes95@gmail.com)](mailto:lucas.guyfawkes95@gmail.com)
+[![GitHub lucasramos95]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/lucasramos95)
