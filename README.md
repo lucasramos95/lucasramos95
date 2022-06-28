@@ -1,5 +1,3 @@
-<h3> Sobre mim </h3>
-
 - 🎓 &nbsp; 27 anos, Apaixonado por Tecnologia, Estudante de **Front-End**.
 - 🌱 &nbsp; Aprendendo mais sobre **JavaScript, Git e GitHub**.
 
