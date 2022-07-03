@@ -1,4 +1,4 @@
-- 🎓 &nbsp; 27 anos, Apaixonado por Tecnologia, Estudante de **Front-End**.
+- 🎓 &nbsp; 27 anos, Apaixonado por Tecnologia, Desenvolvedor **Front-End**.
 - 🌱 &nbsp; Aprendendo mais sobre **JavaScript, Git e GitHub**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
@@ -18,4 +18,3 @@
 
 [![Linkedin: Lucas Ramos](https://img.shields.io/badge/-Lucas_Ramos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-ramos-a8ba4a207/)](https://www.linkedin.com/in/lucas-ramos-a8ba4a207/)
 [![Gmail Badge](https://img.shields.io/badge/-lucas.guyfawkes95@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.guyfawkes95@gmail.com)](mailto:lucas.guyfawkes95@gmail.com)
-[![GitHub lucasramos95]( https://img.shields.io/github/followers/lucasramos95?label=follow&style=social)](https://github.com/lucasramos95)
