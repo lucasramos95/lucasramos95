@@ -1,5 +1,4 @@
-- 🎓 &nbsp; 27 anos, Apaixonado por Tecnologia, Desenvolvedor **Front-End**.
-- 🌱 &nbsp; Aprendendo mais sobre: **Git e GitHub**.
+- 🎓 &nbsp; 27 anos, Desenvolvedor **Front-End**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
