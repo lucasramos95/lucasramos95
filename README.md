@@ -1,5 +1,3 @@
-- 🎓 &nbsp; 27 anos, Desenvolvedor **Front-End**.
-
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
